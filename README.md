@@ -1,3 +1,5 @@
+#click on country name to open side bar same for close.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
